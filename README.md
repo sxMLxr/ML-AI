@@ -1,4 +1,4 @@
-IBM Course 1 of 6 Labs.
+IBM AI ENGINEER Course 1 of 6 Labs.
 Courses completed, with coded examples.
 
 Note:  Created Youtube video displaying SnapML Librarys its use and its effectiveness in modeling build/execution times.
