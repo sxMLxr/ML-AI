@@ -1,4 +1,10 @@
-IBM AI ENGINEER Course 1 of 6 Labs.
+IBM AI ENGINEER Course 1 of 6 Labs, broken down per week and topic covered.
+IBM AI ENGINEER Course 2 of 6 Labs, broken down per week and topic covered.
+IBM AI ENGINEER Course 3 of 6 Labs, broken down per week and topic covered.
+IBM AI ENGINEER Course 4 of 6 Labs, broken down per week and topic covered.
+IBM AI ENGINEER Course 5 of 6 Labs, broken down per week and topic covered.
+IBM AI ENGINEER Course 6 of 6 Labs, broken down per week and topic covered.
+
 Courses completed, with coded examples.
 
 Note:  Created Youtube video displaying SnapML Librarys its use and its effectiveness in modeling build/execution times.
