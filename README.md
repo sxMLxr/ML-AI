@@ -1,13 +1,9 @@
-IBM AI ENGINEER Course 1 of 6 Labs, broken down per week and topic covered.
-IBM AI ENGINEER Course 2 of 6 Labs, broken down per week and topic covered.
-IBM AI ENGINEER Course 3 of 6 Labs, broken down per week and topic covered.
-IBM AI ENGINEER Course 4 of 6 Labs, broken down per week and topic covered.
-IBM AI ENGINEER Course 5 of 6 Labs, broken down per week and topic covered.
-IBM AI ENGINEER Course 6 of 6 Labs, broken down per week and topic covered.
+These are some courses Ive finished while on my ML /AI Journey.  For the most part, its contains labs, and many fill in the code (solutions).
 
-Courses completed, with coded examples.
+THe RED TEAMING LLM --- purposely left blank... its just too easy to fool LLM  no need to provide instructions.
 
-Note:  Created Youtube video displaying SnapML Librarys its use and its effectiveness in modeling build/execution times.
-Purposefully left out datasets, as they can be downloaded.  No need to create another repository as they are stored on a number of hosted sites.
+North Carolina State University AI COHORT was fun.  Unpaid intership, learned alot, shared alot of great code with all my colleages while creating many projects.
 
-Left out "Honors LAB" as part of the course, as this was optional... some labs included are optional work
+DEEPLEARNING.AI course to be published soon
+
+... there are other projects , personal and course material that will soon be published, as soon as I organize NAS files.
